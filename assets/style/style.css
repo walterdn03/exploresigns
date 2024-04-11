@@ -1,0 +1,168 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+		body {
+			font-family: "Montserrat", sans-serif;
+			font-optical-sizing: auto;
+			font-style: normal;
+            background-color: #FCFCFD;
+			}
+		
+        /*CODICE ORIGINALE MAIN*/
+       /* main {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr 1fr;
+            column-gap: 1em;
+            font-size: 1em;
+        }*/
+
+        /*MAIN CSS DA SOSTITUIRE CON CSS DI BOOTSTRAP*/
+        main {
+            display: grid;
+            grid-template-columns: repeat(6, 1fr);
+            column-gap: 1em;
+            font-size: 1em;
+          }
+          
+         /*MEDIA QUERIES MAIN*/ 
+          @media (max-width: 768px) {
+            main {
+              grid-template-columns: repeat(2, 1fr);
+            }
+          }
+          
+          @media (max-width: 576px) {
+            main {
+              grid-template-columns: 1fr;
+            }
+          }
+          
+        .sign {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .sign img {
+            width: 200px;
+            height: auto;
+            margin-bottom: 10px;
+        }
+
+		#wrapper {
+            margin-right: auto;
+            margin-left:  auto;
+          
+            max-width: 80%; 
+          
+            padding-right: 10px; 
+            padding-left:  10px;
+          }
+		
+
+		/*.btn {
+			border-radius: 100px;
+            font-size: large;
+		}*/
+        
+        .headergallery {
+            height: 8vh;
+            width: 100% !important;
+            background-color: #f3f3f3;
+            margin-bottom: 40px;
+        }
+
+        img {
+        }
+
+        /*BOOSTRAT MARGIN ROW*/
+        .row {
+            margin-left: 0 !important;
+            margin-right: 0 !important;
+        }
+
+       /* .form-select {
+            border: 0;
+            border-radius: 5px;
+            padding: 10px;
+        }
+
+        .form-select:hover {
+            background-color: #f3f3f3;
+            
+        }*/
+
+        .navbar {
+          padding-left: 70px;
+          padding-right: 70px;
+          background-color: #f3f3f3 !important;
+            margin-bottom: 40px;
+        }
+
+      
+      .spaceradio {
+        padding-left: 5px;
+        padding-right: 5px;
+      }
+
+      img {
+        border-radius: 5px;
+      }
+
+      .right {
+        text-align: right !important;
+      }
+
+      .mr-5 {
+        margin-right: 5px !important; 
+            }
+
+      .btn {
+        border-radius: ;
+      }
+
+      .form-select {
+        border-radius: 20px;
+       
+      }
+
+      .form-check {
+        margin-left: 15px;
+      }
+
+      img:hover {
+        background-color: black;
+      }
+
+      .form-select {
+        color: white;
+      }
+      
+      .form-select:hover {
+       /* background-color: #f1f1f1;
+        transition: all 0.2s;*/
+      }
+
+      #resetLink {
+      }
+
+      .btn {
+        border-radius: 20px;
+      }
+
+      svg {
+        color : red !important;
+    }
+
+    .fixed {
+      width: 100%;
+      position: fixed;
+    }
+
+
+    #map {
+      border-radius: 15px
+    }
+
+    .leaflet-marker-icon:hover {
+    }

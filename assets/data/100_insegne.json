@@ -1,0 +1,972 @@
+[
+  {
+    "IMMAGINE": "insegna01",
+    "Attività": "Varie",
+    "Carattere": "Serif",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "I viaggi di Oscar",
+    "Sottotitolo": "",
+    "Colore principale": "Blu",
+    "Coordinate": "45.812340185372335, 9.083897671346238"
+  },
+  {
+    "IMMAGINE": "insegna02",
+    "Attività": "Farmacia",
+    "Carattere": "Serif",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "Farmacia",
+    "Sottotitolo": "",
+    "Colore principale": "Bianco",
+    "Coordinate": ""
+  },
+  {
+    "IMMAGINE": "insegna03",
+    "Attività": "Bar",
+    "Carattere": "Sans-serif",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "Esse Bar",
+    "Sottotitolo": "Como Lake",
+    "Colore principale": "Nero",
+    "Coordinate": ""
+  },
+  {
+    "IMMAGINE": "insegna04",
+    "Attività": "Abbigliamento",
+    "Carattere": "Serif",
+    "Tipologia di insegna": "Catena",
+    "Nome": "Libero Milano",
+    "Sottotitolo": "",
+    "Colore principale": "Bianco",
+    "Coordinate": "45.81003907373032, 9.084051980955516"
+  },
+  {
+    "IMMAGINE": "insegna05",
+    "Attività": "Abbigliamento",
+    "Carattere": "Serif + calligrafico",
+    "Tipologia di insegna": "Catena",
+    "Nome": "Du Pareil Au Même",
+    "Sottotitolo": "",
+    "Colore principale": "Rosso",
+    "Coordinate": "45.81006340341957, 9.084166339278338"
+  },
+  {
+    "IMMAGINE": "insegna06",
+    "Attività": "Abbigliamento",
+    "Carattere": "Sans-serif",
+    "Tipologia di insegna": "Catena",
+    "Nome": "Liviana Conti",
+    "Sottotitolo": "",
+    "Colore principale": "Nero",
+    "Coordinate": "45.80995482814631, 9.083914291853866"
+  },
+  {
+    "IMMAGINE": "insegna07",
+    "Attività": "Accessori",
+    "Carattere": "Sans-serif",
+    "Tipologia di insegna": "Catena",
+    "Nome": "Salmoiraghi e Viganò",
+    "Sottotitolo": "",
+    "Colore principale": "Nero",
+    "Coordinate": ""
+  },
+  {
+    "IMMAGINE": "insegna08",
+    "Attività": "Abbigliamento",
+    "Carattere": "Serif",
+    "Tipologia di insegna": "Catena",
+    "Nome": "Fusaro",
+    "Sottotitolo": "Antonio dal 1893",
+    "Colore principale": "Nero",
+    "Coordinate": "45.81122, 9.08369"
+  },
+  {
+    "IMMAGINE": "insegna09",
+    "Attività": "Gastronomia",
+    "Carattere": "Serif",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "Pasticceria",
+    "Sottotitolo": "",
+    "Colore principale": "Blu",
+    "Coordinate": ""
+  },
+  {
+    "IMMAGINE": "insegna10",
+    "Attività": "Abbigliamento",
+    "Carattere": "Serif",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "New Shop",
+    "Sottotitolo": "",
+    "Colore principale": "Nero",
+    "Coordinate": "45.80800169539949, 9.08417732698167"
+  },
+  {
+    "IMMAGINE": "insegna11",
+    "Attività": "Bar",
+    "Carattere": "Sans-serif +  serif",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "Arte dolce \"Lyceum",
+    "Sottotitolo": "",
+    "Colore principale": "Nero e oro",
+    "Coordinate": "45.80768417237281, 9.084404437815705"
+  },
+  {
+    "IMMAGINE": "insegna12",
+    "Attività": "Giocattoli",
+    "Carattere": "Sans-serif",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "L'isola che non c'è",
+    "Sottotitolo": "Giocattoli da 0 a 102 anni",
+    "Colore principale": "Bianco",
+    "Coordinate": "45.80777581626514, 9.084766788954513"
+  },
+  {
+    "IMMAGINE": "insegna13",
+    "Attività": "Accessori",
+    "Carattere": "Serif",
+    "Tipologia di insegna": "Catena",
+    "Nome": "DoDo",
+    "Sottotitolo": "",
+    "Colore principale": "Nero",
+    "Coordinate": "45.80765581474118, 9.084598635677434"
+  },
+  {
+    "IMMAGINE": "insegna14",
+    "Attività": "Bar",
+    "Carattere": "Sans-serif",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "La cafferia",
+    "Sottotitolo": "",
+    "Colore principale": "Giallo e rosso",
+    "Coordinate": "45.80818204084208, 9.085418786509166"
+  },
+  {
+    "IMMAGINE": "insegna15",
+    "Attività": "Accessori",
+    "Carattere": "Serif",
+    "Tipologia di insegna": "Catena",
+    "Nome": "En Provence",
+    "Sottotitolo": "En Provence",
+    "Colore principale": "Giallo",
+    "Coordinate": "45.8110470971562, 9.083730766177275"
+  },
+  {
+    "IMMAGINE": "insegna16",
+    "Attività": "Ristorante",
+    "Carattere": "Sans-serif",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "Pizzeria Ristorante",
+    "Sottotitolo": "La griglia",
+    "Colore principale": "Bianco",
+    "Coordinate": "45.812610145161756, 9.08530467249104"
+  },
+  {
+    "IMMAGINE": "insegna17",
+    "Attività": "Ristorante",
+    "Carattere": "Serif",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "Passion",
+    "Sottotitolo": "The charme of the italian taste",
+    "Colore principale": "Nero",
+    "Coordinate": ""
+  },
+  {
+    "IMMAGINE": "insegna18",
+    "Attività": "Gelateria",
+    "Carattere": "Serif",
+    "Tipologia di insegna": "Catena",
+    "Nome": "Vertigo",
+    "Sottotitolo": "",
+    "Colore principale": "giallo",
+    "Coordinate": "45.80945392408945, 9.084212889682604"
+  },
+  {
+    "IMMAGINE": "insegna19",
+    "Attività": "Salute",
+    "Carattere": "Serif",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "Farmacia",
+    "Sottotitolo": "",
+    "Colore principale": "Nero",
+    "Coordinate": ""
+  },
+  {
+    "IMMAGINE": "insegna20",
+    "Attività": "Accessori",
+    "Carattere": "Serif",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "Ghizzoni",
+    "Sottotitolo": "",
+    "Colore principale": "Nero",
+    "Coordinate": "45.810943010794226, 9.083875796313135"
+  },
+  {
+    "IMMAGINE": "insegna21",
+    "Attività": "Abbigliamento",
+    "Carattere": "Serif",
+    "Tipologia di insegna": "Catena",
+    "Nome": "Polo",
+    "Sottotitolo": "Ralph Lauren",
+    "Colore principale": "Nero",
+    "Coordinate": "45.811115913422846, 9.083741457672776"
+  },
+  {
+    "IMMAGINE": "insegna22",
+    "Attività": "Abbigliamento",
+    "Carattere": "Serif + sans-serif",
+    "Tipologia di insegna": "Catena",
+    "Nome": "Weekend",
+    "Sottotitolo": "MaxMara",
+    "Colore principale": "Bianco",
+    "Coordinate": "45.810467366135725, 9.084504813490835"
+  },
+  {
+    "IMMAGINE": "insegna23",
+    "Attività": "RealEstate",
+    "Carattere": "Serif",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "BestComo",
+    "Sottotitolo": "Real Estate",
+    "Colore principale": "Nero",
+    "Coordinate": "45.810636735931595, 9.083196490788271"
+  },
+  {
+    "IMMAGINE": "insegna24",
+    "Attività": "Abbigliamento",
+    "Carattere": "Calligrafico",
+    "Tipologia di insegna": "Catena",
+    "Nome": "Luisa Spagnoli",
+    "Sottotitolo": "",
+    "Colore principale": "Bianco",
+    "Coordinate": "45.81032679129215, 9.083034214124428"
+  },
+  {
+    "IMMAGINE": "insegna25",
+    "Attività": "Accessori",
+    "Carattere": "Sans-serif +  serif",
+    "Tipologia di insegna": "Catena",
+    "Nome": "Nashi Argan",
+    "Sottotitolo": "",
+    "Colore principale": "Giallo",
+    "Coordinate": "45.81024980518118, 9.083005775463677"
+  },
+  {
+    "IMMAGINE": "insegna26",
+    "Attività": "Accessori",
+    "Carattere": "Serif",
+    "Tipologia di insegna": "Catena",
+    "Nome": "Pandora",
+    "Sottotitolo": "",
+    "Colore principale": "Nero",
+    "Coordinate": "45.81015653845636, 9.083167827701324"
+  },
+  {
+    "IMMAGINE": "insegna27",
+    "Attività": "Abbigliamento",
+    "Carattere": "Sans-serif",
+    "Tipologia di insegna": "Catena",
+    "Nome": "Calvin Klein",
+    "Sottotitolo": "Underwear",
+    "Colore principale": "Bianco",
+    "Coordinate": "45.81007539107123, 9.083267357537661"
+  },
+  {
+    "IMMAGINE": "insegna28",
+    "Attività": "Abbigliamento",
+    "Carattere": "Sans-serif",
+    "Tipologia di insegna": "Catena",
+    "Nome": "Twinset",
+    "Sottotitolo": "Milano",
+    "Colore principale": "Bianco",
+    "Coordinate": "45.810068060849886, 9.083219576053144"
+  },
+  {
+    "IMMAGINE": "insegna29",
+    "Attività": "Abbigliamento",
+    "Carattere": "Serif",
+    "Tipologia di insegna": "Catena",
+    "Nome": "Primadonna",
+    "Sottotitolo": "collection",
+    "Colore principale": "Bianco",
+    "Coordinate": "45.8099426874842, 9.083323857858993"
+  },
+  {
+    "IMMAGINE": "insegna30",
+    "Attività": "Gastronomia",
+    "Carattere": "Serif",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "Biscotti",
+    "Sottotitolo": "",
+    "Colore principale": "Arancione",
+    "Coordinate": ""
+  },
+  {
+    "IMMAGINE": "insegna31",
+    "Attività": "Gastronomia",
+    "Carattere": "Sans-serif",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "Polleria Brancora",
+    "Sottotitolo": "",
+    "Colore principale": "Bianco",
+    "Coordinate": "45.809612237007755, 9.081371529578663"
+  },
+  {
+    "IMMAGINE": "insegna32",
+    "Attività": "Bar",
+    "Carattere": "Sans-serif",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "Bar",
+    "Sottotitolo": "",
+    "Colore principale": "Rosso",
+    "Coordinate": ""
+  },
+  {
+    "IMMAGINE": "insegna33",
+    "Attività": "Gastronomia",
+    "Carattere": "Sans-serif +  serif",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "Torre del Gallo Sapori italiani",
+    "Sottotitolo": "Salumeria",
+    "Colore principale": "Giallo",
+    "Coordinate": ""
+  },
+  {
+    "IMMAGINE": "insegna34",
+    "Attività": "Abbigliamento",
+    "Carattere": "Calligrafico",
+    "Tipologia di insegna": "Catena",
+    "Nome": "Lady Anna",
+    "Sottotitolo": "",
+    "Colore principale": "Bianco",
+    "Coordinate": "45.810013331951495, 9.080858958621253"
+  },
+  {
+    "IMMAGINE": "insegna35",
+    "Attività": "Accessori",
+    "Carattere": "Calligrafico",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "Gioielli L. bellasio",
+    "Sottotitolo": "",
+    "Colore principale": "Marrone",
+    "Coordinate": ""
+  },
+  {
+    "IMMAGINE": "insegna36",
+    "Attività": "Bar",
+    "Carattere": "Calligrafico",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "Caffetteria 800",
+    "Sottotitolo": "",
+    "Colore principale": "Bianco",
+    "Coordinate": "45.810110836891646, 9.080798685906078"
+  },
+  {
+    "IMMAGINE": "insegna37",
+    "Attività": "Artigianato",
+    "Carattere": "Serif",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "Bottega D'Arte",
+    "Sottotitolo": "",
+    "Colore principale": "Giallo",
+    "Coordinate": ""
+  },
+  {
+    "IMMAGINE": "insegna38",
+    "Attività": "Bar",
+    "Carattere": "Sans serif + calligrafico",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "Mignon",
+    "Sottotitolo": "cafe & pasticceria ON THE LAKE",
+    "Colore principale": "Nero",
+    "Coordinate": "45.810690645170205, 9.080195254792491"
+  },
+  {
+    "IMMAGINE": "insegna39",
+    "Attività": "Ristorante",
+    "Carattere": "Sans-serif +  serif",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "Osteria del buonumore",
+    "Sottotitolo": "",
+    "Colore principale": "Giallo",
+    "Coordinate": "45.810816474662815, 9.080542066382769"
+  },
+  {
+    "IMMAGINE": "insegna40",
+    "Attività": "Abbigliamento",
+    "Carattere": "Sans-serif",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "Gbrumana",
+    "Sottotitolo": "abbigliamento",
+    "Colore principale": "Blu",
+    "Coordinate": "45.81109106885017, 9.079968036557318"
+  },
+  {
+    "IMMAGINE": "insegna41",
+    "Attività": "Artigianato",
+    "Carattere": "Serif",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "Paola Cervi",
+    "Sottotitolo": "",
+    "Colore principale": "Oro",
+    "Coordinate": "45.81107185494174, 9.079680281261867"
+  },
+  {
+    "IMMAGINE": "insegna42",
+    "Attività": "Ristorante",
+    "Carattere": "Sans-serif",
+    "Tipologia di insegna": "Catena",
+    "Nome": "Komo",
+    "Sottotitolo": "Fusionable taste",
+    "Colore principale": "Oro",
+    "Coordinate": "45.81127358324548, 9.079641771122207"
+  },
+  {
+    "IMMAGINE": "insegna44",
+    "Attività": "Abbigliamento",
+    "Carattere": "Calligrafico",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "Martine",
+    "Sottotitolo": "",
+    "Colore principale": "Nero",
+    "Coordinate": "45.81138963914552, 9.079602096359642"
+  },
+  {
+    "IMMAGINE": "insegna45",
+    "Attività": "Salute",
+    "Carattere": "Sans-serif",
+    "Tipologia di insegna": "Catena",
+    "Nome": "Ortho Lab",
+    "Sottotitolo": "Como",
+    "Colore principale": "Bianco +  arancione",
+    "Coordinate": ""
+  },
+  {
+    "IMMAGINE": "insegna46",
+    "Attività": "Salute",
+    "Carattere": "Sans-serif",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "Farmacia Popolare",
+    "Sottotitolo": "",
+    "Colore principale": "Giallo",
+    "Coordinate": "45.81105239279607, 9.078613347561621"
+  },
+  {
+    "IMMAGINE": "insegna47",
+    "Attività": "Salute",
+    "Carattere": "Sans-serif",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "Farmacia",
+    "Sottotitolo": "",
+    "Colore principale": "Giallo",
+    "Coordinate": ""
+  },
+  {
+    "IMMAGINE": "insegna48",
+    "Attività": "Ristorante",
+    "Carattere": "Serif",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "Taverna",
+    "Sottotitolo": "",
+    "Colore principale": "Arancione",
+    "Coordinate": ""
+  },
+  {
+    "IMMAGINE": "insegna49",
+    "Attività": "Gastronomia",
+    "Carattere": "Serif",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "No name",
+    "Sottotitolo": "wine & bar",
+    "Colore principale": "Bianco + nero",
+    "Coordinate": "45.8116301083766, 9.078606657672776"
+  },
+  {
+    "IMMAGINE": "insegna50",
+    "Attività": "Abbigliamento",
+    "Carattere": "Sans serif + calligrafico",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "Como Fashion",
+    "Sottotitolo": "Boutique",
+    "Colore principale": "Bianco",
+    "Coordinate": "45.811314489397375, 9.078637616417064"
+  },
+  {
+    "IMMAGINE": "insegna51",
+    "Attività": "Farmacia",
+    "Carattere": "Sans-serif",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "Farmacia",
+    "Sottotitolo": "",
+    "Colore principale": "Nero",
+    "Coordinate": ""
+  },
+  {
+    "IMMAGINE": "insegna52",
+    "Attività": "Hotel",
+    "Carattere": "Serif",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "Hotel Barchetta",
+    "Sottotitolo": "",
+    "Colore principale": "Marrone",
+    "Coordinate": "45.81266205864672, 9.081400758339862"
+  },
+  {
+    "IMMAGINE": "insegna53",
+    "Attività": "Parrucchiere",
+    "Carattere": "Sans-serif",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "Coiffeur pour hommes adelmo",
+    "Sottotitolo": "",
+    "Colore principale": "bianco",
+    "Coordinate": ""
+  },
+  {
+    "IMMAGINE": "insegna54",
+    "Attività": "Farmacia",
+    "Carattere": "Serif",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "Farmacia",
+    "Sottotitolo": "",
+    "Colore principale": "Oro",
+    "Coordinate": ""
+  },
+  {
+    "IMMAGINE": "insegna55",
+    "Attività": "Bar",
+    "Carattere": "Sans-serif",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "Bar",
+    "Sottotitolo": "",
+    "Colore principale": "Oro",
+    "Coordinate": ""
+  },
+  {
+    "IMMAGINE": "insegna56",
+    "Attività": "Tabacchi",
+    "Carattere": "Sans-serif",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "Tabacchi",
+    "Sottotitolo": "",
+    "Colore principale": "Bianco",
+    "Coordinate": ""
+  },
+  {
+    "IMMAGINE": "insegna57",
+    "Attività": "Hotel",
+    "Carattere": "Sans-serif",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "Albergo Terminus",
+    "Sottotitolo": "",
+    "Colore principale": "Bianco",
+    "Coordinate": "45.81369988420407, 9.081678382604427"
+  },
+  {
+    "IMMAGINE": "insegna58",
+    "Attività": "Bar",
+    "Carattere": "Calligrafico",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "Al Molo",
+    "Sottotitolo": "",
+    "Colore principale": "Giallo",
+    "Coordinate": "45.81493251210547, 9.082963171027073"
+  },
+  {
+    "IMMAGINE": "insegna59",
+    "Attività": "Gelateria",
+    "Carattere": "Calligrafico",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "I tre santi",
+    "Sottotitolo": "Gelateria",
+    "Colore principale": "Nero",
+    "Coordinate": "45.816153487771906, 9.082997068599655"
+  },
+  {
+    "IMMAGINE": "insegna60",
+    "Attività": "Ristorante",
+    "Carattere": "Sans-serif",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "Italian Food & Bar",
+    "Sottotitolo": "",
+    "Colore principale": "Bianco",
+    "Coordinate": ""
+  },
+  {
+    "IMMAGINE": "insegna61",
+    "Attività": "Bar",
+    "Carattere": "Serif",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "Birreria",
+    "Sottotitolo": "",
+    "Colore principale": "Verde",
+    "Coordinate": ""
+  },
+  {
+    "IMMAGINE": "insegna62",
+    "Attività": "Hotel",
+    "Carattere": "Serif",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "Rooms",
+    "Sottotitolo": "",
+    "Colore principale": "Giallo",
+    "Coordinate": ""
+  },
+  {
+    "IMMAGINE": "insegna63",
+    "Attività": "Macelleria",
+    "Carattere": "Sans-serif",
+    "Tipologia di insegna": "Catena",
+    "Nome": "Mannarino",
+    "Sottotitolo": "",
+    "Colore principale": "Verde",
+    "Coordinate": "45.81539312630349, 9.084395842327224"
+  },
+  {
+    "IMMAGINE": "insegna64",
+    "Attività": "Ristorante",
+    "Carattere": "Serif",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "Dal Pain",
+    "Sottotitolo": "",
+    "Colore principale": "Rosso",
+    "Coordinate": "45.81502964470944, 9.08442254028304"
+  },
+  {
+    "IMMAGINE": "insegna65",
+    "Attività": "Ristorante",
+    "Carattere": "Sans serif + calligrafico",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "Pizzeria Lariana",
+    "Sottotitolo": "",
+    "Colore principale": "Giallo",
+    "Coordinate": "45.81489008232359, 9.084682745918268"
+  },
+  {
+    "IMMAGINE": "insegna66",
+    "Attività": "Ristorante",
+    "Carattere": "Serif",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "Restaurant",
+    "Sottotitolo": "",
+    "Colore principale": "Bianco",
+    "Coordinate": ""
+  },
+  {
+    "IMMAGINE": "insegna67",
+    "Attività": "Ristorante",
+    "Carattere": "Calligrafico",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "Zazà Osteria",
+    "Sottotitolo": "Ristorante",
+    "Colore principale": "Bianco",
+    "Coordinate": "45.814555685179236, 9.08468600983245"
+  },
+  {
+    "IMMAGINE": "insegna68",
+    "Attività": "Ristorante",
+    "Carattere": "Sans-serif",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "Ristorante",
+    "Sottotitolo": "",
+    "Colore principale": "Bianco",
+    "Coordinate": ""
+  },
+  {
+    "IMMAGINE": "insegna69",
+    "Attività": "Ristorante",
+    "Carattere": "Calligrafico",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "il Vecchio Borgo",
+    "Sottotitolo": "",
+    "Colore principale": "Oro",
+    "Coordinate": "45.81473921338249, 9.083868421248146"
+  },
+  {
+    "IMMAGINE": "insegna70",
+    "Attività": "Ristorante",
+    "Carattere": "Sans-serif",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "Ristorante Imbarcadero",
+    "Sottotitolo": "",
+    "Colore principale": "Bianco + nero",
+    "Coordinate": "45.81321423369015, 9.080181075731753"
+  },
+  {
+    "IMMAGINE": "insegna71",
+    "Attività": "Hotel",
+    "Carattere": "Serif",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "Metropole Suisse",
+    "Sottotitolo": "Hotel",
+    "Colore principale": "Bianco",
+    "Coordinate": "45.81309216912435, 9.080162704272132"
+  },
+  {
+    "IMMAGINE": "insegna72",
+    "Attività": "Abbigliamento",
+    "Carattere": "Serif",
+    "Tipologia di insegna": "Catena",
+    "Nome": "Boggi Milano",
+    "Sottotitolo": "",
+    "Colore principale": "Oro",
+    "Coordinate": "45.811238522410996, 9.081929762557087"
+  },
+  {
+    "IMMAGINE": "insegna73",
+    "Attività": "Abbigliamento",
+    "Carattere": "Calligrafico",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "Luisa della Salda",
+    "Sottotitolo": "",
+    "Colore principale": "Oro",
+    "Coordinate": "45.811046860934084, 9.082194864418193"
+  },
+  {
+    "IMMAGINE": "insegna74",
+    "Attività": "Accessori",
+    "Carattere": "Sans-serif",
+    "Tipologia di insegna": "Catena",
+    "Nome": "Legami",
+    "Sottotitolo": "",
+    "Colore principale": "Bianco",
+    "Coordinate": "45.81078360816072, 9.082543921566842"
+  },
+  {
+    "IMMAGINE": "insegna75",
+    "Attività": "Giocattoli",
+    "Carattere": "Sans-serif",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "Scotti",
+    "Sottotitolo": "giocattoli e videogames",
+    "Colore principale": "Giallo",
+    "Coordinate": "45.81059713092491, 9.082845471163623"
+  },
+  {
+    "IMMAGINE": "insegna76",
+    "Attività": "Abbigliamento",
+    "Carattere": "Sans serif + calligrafico",
+    "Tipologia di insegna": "Catena",
+    "Nome": "Jacadi Paris",
+    "Sottotitolo": "",
+    "Colore principale": "Bianco",
+    "Coordinate": "45.81041886805624, 9.082703374697097"
+  },
+  {
+    "IMMAGINE": "insegna77",
+    "Attività": "Gastronomia",
+    "Carattere": "Sans-serif +  serif",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "Milani",
+    "Sottotitolo": "Caffè & Caffè",
+    "Colore principale": "Nero",
+    "Coordinate": "45.81043698402761, 9.082924847125211"
+  },
+  {
+    "IMMAGINE": "insegna78",
+    "Attività": "Salute",
+    "Carattere": "Serif + sans-serif",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "L'Erbolario",
+    "Sottotitolo": "",
+    "Colore principale": "Bianco",
+    "Coordinate": "45.81068584839231, 9.082674473690897"
+  },
+  {
+    "IMMAGINE": "insegna79",
+    "Attività": "Accessori",
+    "Carattere": "Serif",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "Art Fusion",
+    "Sottotitolo": "",
+    "Colore principale": "Bianco",
+    "Coordinate": "45.93499016327966, 9.149585810820334"
+  },
+  {
+    "IMMAGINE": "insegna80",
+    "Attività": "Salute",
+    "Carattere": "Sans-serif",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "A. Sommaruga",
+    "Sottotitolo": "Ortopedico",
+    "Colore principale": "Bianco",
+    "Coordinate": "45.81088547055259, 9.084039098145285"
+  },
+  {
+    "IMMAGINE": "insegna81",
+    "Attività": "Abbigliamento",
+    "Carattere": "Serif",
+    "Tipologia di insegna": "Catena",
+    "Nome": "Max&Co",
+    "Sottotitolo": "",
+    "Colore principale": "Bianco",
+    "Coordinate": "45.810473349151074, 9.08439023456455"
+  },
+  {
+    "IMMAGINE": "insegna82",
+    "Attività": "Accessori",
+    "Carattere": "Sans-serif",
+    "Tipologia di insegna": "Catena",
+    "Nome": "Fielmann",
+    "Sottotitolo": "",
+    "Colore principale": "Bianco",
+    "Coordinate": "45.81038356411238, 9.08446360292227"
+  },
+  {
+    "IMMAGINE": "insegna83",
+    "Attività": "Giocattoli",
+    "Carattere": "Sans-serif",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "Modellismo",
+    "Sottotitolo": "Mantovani",
+    "Colore principale": "Nero + bianco",
+    "Coordinate": "45.81030395020764, 9.084430363291276"
+  },
+  {
+    "IMMAGINE": "insegna84",
+    "Attività": "Gastronomia",
+    "Carattere": "Calligrafico",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "Enosalumeria del centro",
+    "Sottotitolo": "Grappenoteca",
+    "Colore principale": "Oro",
+    "Coordinate": ""
+  },
+  {
+    "IMMAGINE": "insegna85",
+    "Attività": "Accessori",
+    "Carattere": "Calligrafico",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "Trombetta",
+    "Sottotitolo": "",
+    "Colore principale": "Nero",
+    "Coordinate": ""
+  },
+  {
+    "IMMAGINE": "insegna86",
+    "Attività": "Accessori",
+    "Carattere": "Sans-serif",
+    "Tipologia di insegna": "Catena",
+    "Nome": "Bollicine",
+    "Sottotitolo": "",
+    "Colore principale": "Bianco",
+    "Coordinate": "45.80934778997123, 9.084108595293507"
+  },
+  {
+    "IMMAGINE": "insegna87",
+    "Attività": "Salute",
+    "Carattere": "Sans-serif",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "Farmacia",
+    "Sottotitolo": "",
+    "Colore principale": "Oro",
+    "Coordinate": ""
+  },
+  {
+    "IMMAGINE": "insegna88",
+    "Attività": "Macelleria",
+    "Carattere": "Serif",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "Macelleria",
+    "Sottotitolo": "",
+    "Colore principale": "Oro",
+    "Coordinate": ""
+  },
+  {
+    "IMMAGINE": "insegna89",
+    "Attività": "Profumeria",
+    "Carattere": "Calligrafico",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "Profumeria Donnini",
+    "Sottotitolo": "dal 1919",
+    "Colore principale": "Bianco",
+    "Coordinate": "45.8088231837406, 9.08406192044844"
+  },
+  {
+    "IMMAGINE": "insegna90",
+    "Attività": "Accessori",
+    "Carattere": "Sans-serif",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "Bianchi",
+    "Sottotitolo": "gioielleria dal 1951",
+    "Colore principale": "Bianco",
+    "Coordinate": "45.808638271835655, 9.08516400838418"
+  },
+  {
+    "IMMAGINE": "insegna91",
+    "Attività": "Giocattoli",
+    "Carattere": "Calligrafico",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "Antocenter",
+    "Sottotitolo": "",
+    "Colore principale": "Bianco + blu",
+    "Coordinate": "45.80864696393952, 9.084123136212959"
+  },
+  {
+    "IMMAGINE": "insegna92",
+    "Attività": "Abbigliamento",
+    "Carattere": "Serif",
+    "Tipologia di insegna": "Catena",
+    "Nome": "Ray",
+    "Sottotitolo": "",
+    "Colore principale": "Bianco",
+    "Coordinate": "45.80879562964221, 9.08453923562768"
+  },
+  {
+    "IMMAGINE": "insegna93",
+    "Attività": "Parrucchiere",
+    "Carattere": "Serif",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "Stéphane",
+    "Sottotitolo": "parrucchieri",
+    "Colore principale": "Nero",
+    "Coordinate": "45.80954627341342, 9.084305558941589"
+  },
+  {
+    "IMMAGINE": "insegna94",
+    "Attività": "Fioraio",
+    "Carattere": "Sans-serif",
+    "Tipologia di insegna": "Catena",
+    "Nome": "Vincenzo D'Ascanio",
+    "Sottotitolo": "",
+    "Colore principale": "Oro",
+    "Coordinate": "45.80978349491416, 9.084121284677975"
+  },
+  {
+    "IMMAGINE": "insegna95",
+    "Attività": "Abbigliamento",
+    "Carattere": "Sans-serif",
+    "Tipologia di insegna": "Negozio proprietario",
+    "Nome": "A.S 98",
+    "Sottotitolo": "",
+    "Colore principale": "Oro",
+    "Coordinate": "45.80999716211335, 9.083949832593525"
+  },
+  {
+    "IMMAGINE": "insegna96",
+    "Attività": "Accessori",
+    "Carattere": "Sans serif + calligrafico",
+    "Tipologia di insegna": "Catena",
+    "Nome": "Look Up",
+    "Sottotitolo": "Como Lake",
+    "Colore principale": "Bianco",
+    "Coordinate": "45.81000689906258, 9.083939723518654"
+  },
+  {
+    "IMMAGINE": "insegna97",
+    "Attività": "Abbigliamento",
+    "Carattere": "Serif",
+    "Tipologia di insegna": "Catena",
+    "Nome": "A.GI.EMME",
+    "Sottotitolo": "",
+    "Colore principale": "Oro",
+    "Coordinate": "45.81133644998074, 9.083415533209273"
+  },
+  {
+    "IMMAGINE": "insegna98",
+    "Attività": "Abbigliamento",
+    "Carattere": "Sans-serif",
+    "Tipologia di insegna": "Catena",
+    "Nome": "Petit Bateau",
+    "Sottotitolo": "",
+    "Colore principale": "Bianco",
+    "Coordinate": "45.81056669607681, 9.08521051431854"
+  }
+]
