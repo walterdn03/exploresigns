@@ -11,12 +11,9 @@
 
     <!--CONTROLLARE RESPONSIVE, DROPDOWN CITTA CREA PROBLEMI //non fa parte del div NAVBAR-BRAND-->
     <nav class="navbar center navbar-expand-lg bg-light">
-        <div class="container-fluid">
+        <div class="container-fluid wrapper">
           <a class="navbar-brand" href="#">ExplorSigns</a>
           <div class="dropdown navbar-brand">
-            <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownComo" data-bs-toggle="dropdown" aria-expanded="false">
-                Como
-            </button>
             <ul class="dropdown-menu" aria-labelledby="dropdownComo">
                 <!--<form class="d-flex pr-5 pl-5" role="search">
                     <input class="form-control me-2 ml-2 mr-2" type="search" placeholder="Search" aria-label="Search">
@@ -39,7 +36,7 @@
                 <a class="nav-link" href="maps.html">Mappa</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link disabled">Il progetto</a>
+                <a class="nav-link" href="https://github.com/walterdn03/exploresigns/blob/2649be0335f301d930b5761723612b0d53a09b60/README.md">Il progetto</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link disabled">Aggiungi insegne</a>
@@ -53,7 +50,7 @@
         </div>
       </nav>
 
-    <div id="wrapper">
+    <div class="wrapper">
 
         <!-- CODICE VECCHIO NAV VERSIONE 1-->
       <!--  <div class="headergallery d-flex align-items-center">
@@ -103,10 +100,17 @@
                           </div>-->
 
         <div class="row">
+          <div class="col-2">
+            <select class="btn btn-primary form-select mb-5" aria-label="Large select example">
+              <option value="select-type" disabled>Select your option</option>
+              <option value="">Como</option>
+          </select>
+          </div>
+
             <div class="col-2">
                 <select id="tipo-attivita" class="btn btn-primary form-select mb-5" aria-label="Large select example">
                     <option value="select-type" disabled>Select your option</option>
-                    <option value="Tutte">Tutte</option>
+                    <option value="Tutte">Tutte le insegne</option>
                 </select>
             </div>
 
@@ -135,7 +139,7 @@
             </div>
             
                   
-            <div class="col-6">
+            <div class="col-4">
               <button type="button" class="btn btn-outline-secondary" id="resetLink"><i class="fa-regular fa-xmark mr-5"></i>Reset</button>
             </div>
             <div class="col-2 justify-content-end">
